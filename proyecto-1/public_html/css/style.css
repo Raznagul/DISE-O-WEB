@@ -1,3 +1,13 @@
+#container{
+	background-color:grey;
+	width:100%;
+}
+
+#header{
+	border-bottom: 2px solid black;
+	height: 200px;
+}
+
 /*  Dropdown menu*/
 
 .navbar-header 
@@ -11,13 +21,13 @@
   -webkit-animation: fadeInUp 400ms;
   -moz-animation: fadeInUp 400ms;
   -ms-animation: fadeInUp 400ms;
-  -o-animation: fadeInUp 400ms;
+  -o-animation: fadeInUp 400ms;s
   animation: fadeInUp 400ms;
 }
 
 ul.sub-menu {
 	position: absolute;
-	top: 30px;
+	top: 43px;
 	left: 0;
 	background: rgba(0, 0, 0, 0.6);
 	list-style: none;
