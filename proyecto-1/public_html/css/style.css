@@ -27,7 +27,17 @@
 #logo img{
 	width:50%;
 }
+#pagination{
+	margin-top:10px;
+}
 
+#paginationh3 {
+	background-color:#233141;	
+}
+#pagination h3{
+	font-weight:bold;
+	color:white;
+}
 /*footer*/
 #footer{
 	margin-top:7px;
