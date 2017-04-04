@@ -1,6 +1,6 @@
 #header h1{
 	font-weight:bold;
-	color:background-color:#233141;	
+	color:#233141;	
 }
 #car img{
 	width:50px;
@@ -68,11 +68,11 @@
 }
 #footer h1{
 	font-weight:bold;
-	color:background-color:#233141;
+	color:#233141;
 }
 #footer h3{
 	font-weight:bold;
-	color:background-color:#233141;
+	color:#233141;
 }
 #footer p{
 	background-color:#233141;
@@ -132,7 +132,7 @@
   -webkit-animation: fadeInUp 400ms;
   -moz-animation: fadeInUp 400ms;
   -ms-animation: fadeInUp 400ms;
-  -o-animation: fadeInUp 400ms;s
+  -o-animation: fadeInUp 400ms;
   animation: fadeInUp 400ms;
 
 }
