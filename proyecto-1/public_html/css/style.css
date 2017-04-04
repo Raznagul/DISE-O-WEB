@@ -38,6 +38,27 @@
 	font-weight:bold;
 	color:white;
 }
+
+.marginImg{
+	margin-top:5px;
+}
+.imageCar{
+	font-weight:bold;
+	color:#233141;
+	text-align:left;
+	width:300px;
+}
+.nomargin{
+	margin:0;
+	padding:0;
+}
+.nomarginImg{
+	width:250px;
+}
+
+.buyImg{
+	width:25px;
+}
 /*footer*/
 #footer{
 	margin-top:7px;
@@ -64,6 +85,24 @@
 #logo-footer div{
 	display:none;
 }	
+
+
+.navegability ul li{
+	display:inline;
+	text-decoration:underline;
+	color:white;
+	
+}
+.navegability ul li:first-child{
+	color:grey;
+	text-decoration:none;
+}
+.navegability ul li a:hover{
+	display:inline;
+	color:grey;
+	text-decoration:none;
+	
+}
 /*Carousel*/
 #carousel img{
 	width:50%;
@@ -163,7 +202,24 @@ ul.sub-menu {
 	#identified{
 		display:none;
 	}
+	#pagination{
+		margin-top:10px;
+		text-align:center;
+	}
+	.imageCar{
+		font-weight:bold;
+		color:#233141;
+		text-align:center;
+		width:300px;
+	}
+	.nomarginImg{
+		width:298px;
+	}
+
 }
+
+
+
 
 
 /* Style the tab */
@@ -231,6 +287,7 @@ div.tab button.active {
     float: left;
     width: 100%;
 }
+
 
 
 
