@@ -93,6 +93,14 @@
 	color:white;
 	
 }
+
+.navbar-default .navbar-nav > li > a {
+    color:white;
+}
+
+.navbar-default .navbar-brand{
+    color:white;
+}
 .navegability ul li:first-child{
 	color:grey;
 	text-decoration:none;
